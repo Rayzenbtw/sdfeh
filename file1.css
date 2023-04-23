@@ -1,0 +1,35 @@
+body{ 
+    background-color: cyan;
+}
+p{
+    font-size: 50px;
+    color: grey;
+}
+.ex1{
+    font-family: cursive;
+}
+.ex2{
+    font-weight: 700;
+    font-style: italic;
+}
+.ex3{
+    text-decoration: underline;
+    text-decoration-style:line ;
+    text-decoration-color: greenyellow;
+    text-underline-position: under;
+
+}
+.ex4{
+    text-decoration: underline dashed;
+    text-decoration-color:green;
+
+}
+.ex5{
+    text-shadow: 2px 2px darkkhaki;
+}
+.ex6{
+    text-shadow: 2px -3px 3px black;
+}
+.ex7{
+    font-family: 'Shantell Sans', cursive; 
+}
